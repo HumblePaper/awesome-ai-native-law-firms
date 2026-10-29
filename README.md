@@ -8,11 +8,11 @@
 
 Sponsored by [Humblepaper](https://humblepaper.co).
 
-> Law firms built with AI as the way the work gets done, grouped by how they are built, with indexes by practice area and country.
+> Law firms that have been built around AI from the start, grouped by how each one is put together, with indexes by practice area and by country.
 
-A firm is listed when it provides legal services to clients and its own pages describe AI as the way the work is done. Software vendors are not listed.
+A firm belongs here when it provides legal services to clients and its own pages describe AI as the way it does the work, rather than as an addition to a conventional practice. Software vendors are not law firms and are not listed.
 
-Firms are grouped by how they are built, from firms that run on software they wrote to partner platforms adopting AI. The tables at the end index them by practice area and by country.
+The firms are grouped by how they are built, ranging from firms that run on software they wrote themselves to partner platforms that are adopting AI across an existing practice. The two tables at the end index them by practice area and by country.
 
 ## Contents
 
@@ -29,7 +29,7 @@ Firms are grouped by how they are built, from firms that run on software they wr
 
 ## Product-led firms
 
-The firm builds and runs its own software and the lawyers work inside it.
+Firms that build and run their own software, with the lawyers working inside it.
 
 - [Bonsai Legal](https://www.bonsailegal.com.au) - Fixed-fee corporate, IP, digital and hiring work through an online portal, built on the firm's own system BonsaiOS. 🇦🇺 Australia.
 - [Clarence & Partners](https://www.clarenceandpartners.com) - Corporate and M&A firm that runs on its own platform VARINA, with lawyers handling strategy. Bengaluru, 🇮🇳 India.
@@ -53,7 +53,7 @@ The firm builds and runs its own software and the lawyers work inside it.
 
 ## Lawyer-led firms built on AI
 
-Practices founded on AI from day one, often fixed fee, running on AI they buy or assemble.
+Practices founded on AI from the first day, often on fixed fees, running on AI they buy or assemble rather than write.
 
 - [Aira Law](https://airalaw.com) - Review, drafting and negotiation of music contracts, plus rights and licensing for labels, publishers and artists. 🇩🇪 Germany.
 - [Antheros Legal](https://antheros.legal) - Intellectual property work for life sciences companies from a firm that calls itself AI-native. San Francisco, 🇺🇸 United States.
@@ -80,7 +80,7 @@ Practices founded on AI from day one, often fixed fee, running on AI they buy or
 
 ## AI-native arms of established firms
 
-Branded units or affiliates of an existing firm or company.
+Branded units or affiliates of an existing firm or company, set up to do the work in a new way.
 
 - [ElevateNext](https://elevatenextlaw.com) - Routine disputes, employment and compliance work, integrated with the legal services company Elevate and done with AI tools its team designs. Phoenix, 🇺🇸 United States.
 - [Eudia Counsel](https://eudiacounsel.com) - Commercial contracts, technology transactions and employment, with first-pass drafting done on the AI platform of its parent company Eudia. 🇺🇸 United States.
@@ -94,14 +94,14 @@ Branded units or affiliates of an existing firm or company.
 
 ## Partner platforms adopting AI
 
-Distributed full-service firms of experienced partners that describe themselves as technology-driven.
+Distributed full-service firms of experienced partners that describe themselves as technology-driven and are adopting AI across the practice.
 
 - [Pierson Ferdinand](https://piersonferdinand.com) - Distributed firm of partners with no associates that calls itself a "tech-driven, full-service law firm", with offices in the United States and England. 🇺🇸 United States.
 - [Scale LLP](https://scalefirm.com) - Distributed firm of experienced attorneys covering litigation, transactions, M&A, employment and regulatory work on a tech-enabled platform, with its own AI skills and agentic contract review. 🇺🇸 United States.
 
 ## By practice area
 
-Each firm is listed under the practice areas its own pages put first.
+Each firm appears under the practice areas its own pages put first.
 
 | Practice area                      | Firms                                                                                                                                                                                                                                                                                            |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -122,7 +122,7 @@ Each firm is listed under the practice areas its own pages put first.
 
 ## By country
 
-The country is where the firm says it is based.
+The country is the one where the firm says it is based.
 
 | Country             | Firms                                                                                                                                                                                                                                                                                                                                                                                           |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -141,7 +141,7 @@ The country is where the firm says it is based.
 
 ## Networks, platforms and communities
 
-No membership association for these firms exists yet. These are the platforms, directories, events and advisers around them.
+There is no membership association for these firms yet. These are the platforms, directories, events and advisers that have grown up around them.
 
 ### Firm-building platforms
 
@@ -183,8 +183,8 @@ No membership association for these firms exists yet. These are the platforms, d
 
 ## Contributing
 
-One firm per pull request, one line per entry, alphabetical within its section. The link goes to the firm's own site. See [CONTRIBUTING.md](CONTRIBUTING.md).
+One firm per pull request and one line per entry, in alphabetical order within its section. The link goes to the firm's own site. [CONTRIBUTING.md](CONTRIBUTING.md) has the rest.
 
 ## About
 
-Maintained by Humblepaper, Inc. No firm here is a client or a partner of ours. A firm is listed because its own pages meet the definition above. CC0: copy freely.
+Humblepaper, Inc. maintains this list. No firm here is a client or a partner of ours, and a firm is listed because its own pages meet the definition above. The list is CC0, so copy it freely.
