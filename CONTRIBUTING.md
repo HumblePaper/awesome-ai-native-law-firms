@@ -15,7 +15,7 @@ Thank you for suggesting an entry. These rules apply to every list in this famil
 
 ## What belongs here
 
-A firm belongs here when it provides legal services to clients and its own pages describe AI as the way it does the work, rather than as an addition to a conventional practice. Software vendors are not law firms and are not listed.
+A firm is listed on two facts, both taken from its own pages: that it provides legal services to clients, and that it describes AI as the method by which that work is done rather than as an addition to a conventional practice. Software vendors are not law firms and are not listed.
 
 The list has four sections by model: product-led firms, lawyer-led firms built on AI, AI-native arms of established firms, and partner platforms adopting AI. A new firm goes into one of those sections and also into the two index tables, by practice area and by country.
 

@@ -8,11 +8,11 @@
 
 Sponsored by [Humblepaper](https://humblepaper.co).
 
-> Law firms that have been built around AI from the start, grouped by how each one is put together, with indexes by practice area and by country.
+> A list of law firms that practise with AI as the method of work rather than an add-on, arranged by how each firm is constituted, with indexes by practice area and country.
 
-A firm belongs here when it provides legal services to clients and its own pages describe AI as the way it does the work, rather than as an addition to a conventional practice. Software vendors are not law firms and are not listed.
+A firm is listed on two facts, both taken from its own pages: that it provides legal services to clients, and that it describes AI as the method by which that work is done rather than as an addition to a conventional practice. Software vendors are not law firms and are not listed.
 
-The firms are grouped by how they are built, ranging from firms that run on software they wrote themselves to partner platforms that are adopting AI across an existing practice. The two tables at the end index them by practice area and by country.
+The firms are arranged by model, from those that run on software of their own making to partner platforms adopting AI across an established practice. Two tables at the end index them by practice area and by country.
 
 ## Contents
 
@@ -141,7 +141,7 @@ The country is the one where the firm says it is based.
 
 ## Networks, platforms and communities
 
-There is no membership association for these firms yet. These are the platforms, directories, events and advisers that have grown up around them.
+There is no membership association for these firms yet. These are the platforms, directories, events and advisers that have formed around them.
 
 ### Firm-building platforms
 
@@ -183,8 +183,8 @@ There is no membership association for these firms yet. These are the platforms,
 
 ## Contributing
 
-One firm per pull request and one line per entry, in alphabetical order within its section. The link goes to the firm's own site. [CONTRIBUTING.md](CONTRIBUTING.md) has the rest.
+One firm per pull request and one line per entry, in alphabetical order within its section. The link goes to the firm's own site. [CONTRIBUTING.md](CONTRIBUTING.md) sets out the rest.
 
 ## About
 
-Humblepaper, Inc. maintains this list. No firm here is a client or a partner of ours, and a firm is listed because its own pages meet the definition above. The list is CC0, so copy it freely.
+Humblepaper, Inc. maintains this list from each firm's own published pages. No firm here is a client or a partner of ours, no firm was consulted on its entry, and inclusion is not an endorsement. A firm is listed because its pages meet the definition above. The list is released under CC0 and may be copied freely.
