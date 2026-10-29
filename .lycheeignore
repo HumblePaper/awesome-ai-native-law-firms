@@ -2,3 +2,5 @@
 ^https://awesome\.re/
 # Arizona courts site serves 403 to scripted fetches; loads in a real browser (checked 2026-10-29)
 ^https://www\.azcourts\.gov/
+# TLS handshake fails from GitHub Actions runners (lychee run 2026-10-29); loads in a real browser
+^https://piersonferdinand\.com/
