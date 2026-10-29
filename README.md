@@ -1,5 +1,13 @@
 # Awesome AI-Native Law Firms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<div align="center">
+<a href="https://humblepaper.co"><img src="https://raw.githubusercontent.com/HumblePaper/.github/main/profile/mark.png" width="56" alt="Humblepaper"></a>
+</div>
+
+[![lint](https://github.com/HumblePaper/awesome-ai-native-law-firms/actions/workflows/lint.yml/badge.svg)](https://github.com/HumblePaper/awesome-ai-native-law-firms/actions/workflows/lint.yml) [![last commit](https://img.shields.io/github/last-commit/HumblePaper/awesome-ai-native-law-firms)](https://github.com/HumblePaper/awesome-ai-native-law-firms/commits/main) [![contributors](https://img.shields.io/github/contributors/HumblePaper/awesome-ai-native-law-firms)](https://github.com/HumblePaper/awesome-ai-native-law-firms/graphs/contributors) [![licence CC0](https://img.shields.io/badge/licence-CC0-lightgrey)](LICENSE) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/HumblePaper/awesome-ai-native-law-firms/pulls)
+
+Sponsored by [Humblepaper](https://humblepaper.co).
+
 > Law firms built with AI as the way the work gets done, grouped by how they are built, with indexes by practice area and country.
 
 A firm is listed when it provides legal services to clients and its own pages describe AI as the way the work is done. Software vendors are not listed.
@@ -23,73 +31,73 @@ Firms are grouped by how they are built, from firms that run on software they wr
 
 The firm builds and runs its own software and the lawyers work inside it.
 
-- [Bonsai Legal](https://www.bonsailegal.com.au) - Fixed-fee corporate, IP, digital and hiring work through an online portal, built on the firm's own system BonsaiOS. Australia.
-- [Clarence & Partners](https://www.clarenceandpartners.com) - Corporate and M&A firm that runs on its own platform VARINA, with lawyers handling strategy. Bengaluru, India.
-- [Compound Law](https://compound.law) - Contracts, commercial agreements and EU compliance on the firm's own AI systems, with lawyers reviewing and signing off. Berlin, Germany.
-- [Crosby](https://crosby.ai) - Commercial contracts drafted by AI agents and reviewed by attorneys. United States.
-- [Garfield AI](https://garfield.law) - Debt recovery for small businesses, with claims up to £10,000 run on the firm's own software. Royal Tunbridge Wells, United Kingdom.
-- [Index Law](https://indexlaw.com) - Fixed-fee contract review, redlining and first-pass drafting by AI agents, with a lawyer handling anything that needs judgment. United Kingdom.
-- [Inhouse](https://inhouse.ai) - Legal advice and documents for small businesses from an AI assistant backed by the firm's own lawyers. United States.
-- [Kyra Law](https://kyralaw.co.uk) - Commercial legal work for UK start-ups and scale-ups on the firm's own AI platform, with a solicitor checking everything. London, United Kingdom.
-- [Lawlux](https://lawlux.com.au) - Law firm for businesses with a free legal Q&A tool and fixed-price documents, where the technology does the groundwork and a lawyer makes the call. Melbourne, Australia.
-- [Legal Paradox](https://legalparadox.com) - Regulatory strategy, authorization files and contracts for fintech and tokenisation clients on the firm's own AI, Jurídicon. Mexico City, Mexico.
-- [Lex Aude](https://lexaude.com) - Contract support for in-house legal teams: reviews and redlines drafts to the client's positions with tools its own engineers build, and runs negotiations for a fixed monthly fee. India.
-- [PNL Partners](https://pnlp.vn) - Contracts, disputes and IP work in which the firm's own assistant Lexa supports every matter from first read to final draft. Hanoi, Vietnam.
-- [Rhett](https://rhett.legal) - Legal work handled end to end by AI for businesses, with every output checked by an advocate. Mumbai, India.
-- [Ruby](https://rubylegal.ai) - Shareholder agreements, SAFEs, employment contracts and vendor agreements for growing businesses, drafted by the firm's system and reviewed by a lawyer. Toronto, Canada.
-- [Shepherd Legal](https://yourshepherd.ai) - Start-up counsel that combines its own AI software with attorneys. United States.
-- [Superlegal](https://superlegal.ai) - Contract review for construction and other industries, with the firm's own technology doing the first review. New York and Lehi, United States.
-- [Vector Legal](https://vectorlegal.com) - Start-up counsel in which the firm's own AI takes the first pass. San Francisco, United States.
-- [VETTA](https://vettalaw.com) - Day-to-day commercial contracts for a fixed monthly fee, with lawyers and engineers working together on the firm's own technology. London, United Kingdom.
-- [Windward Counsel](https://windwardcounsel.com) - Fixed-fee business law for energy and critical minerals, delivered through the firm's own AI system, Windward Helm. Flower Mound, United States.
+- [Bonsai Legal](https://www.bonsailegal.com.au) - Fixed-fee corporate, IP, digital and hiring work through an online portal, built on the firm's own system BonsaiOS. 🇦🇺 Australia.
+- [Clarence & Partners](https://www.clarenceandpartners.com) - Corporate and M&A firm that runs on its own platform VARINA, with lawyers handling strategy. Bengaluru, 🇮🇳 India.
+- [Compound Law](https://compound.law) - Contracts, commercial agreements and EU compliance on the firm's own AI systems, with lawyers reviewing and signing off. Berlin, 🇩🇪 Germany.
+- [Crosby](https://crosby.ai) - Commercial contracts drafted by AI agents and reviewed by attorneys. 🇺🇸 United States.
+- [Garfield AI](https://garfield.law) - Debt recovery for small businesses, with claims up to £10,000 run on the firm's own software. Royal Tunbridge Wells, 🇬🇧 United Kingdom.
+- [Index Law](https://indexlaw.com) - Fixed-fee contract review, redlining and first-pass drafting by AI agents, with a lawyer handling anything that needs judgment. 🇬🇧 United Kingdom.
+- [Inhouse](https://inhouse.ai) - Legal advice and documents for small businesses from an AI assistant backed by the firm's own lawyers. 🇺🇸 United States.
+- [Kyra Law](https://kyralaw.co.uk) - Commercial legal work for UK start-ups and scale-ups on the firm's own AI platform, with a solicitor checking everything. London, 🇬🇧 United Kingdom.
+- [Lawlux](https://lawlux.com.au) - Law firm for businesses with a free legal Q&A tool and fixed-price documents, where the technology does the groundwork and a lawyer makes the call. Melbourne, 🇦🇺 Australia.
+- [Legal Paradox](https://legalparadox.com) - Regulatory strategy, authorization files and contracts for fintech and tokenisation clients on the firm's own AI, Jurídicon. Mexico City, 🇲🇽 Mexico.
+- [Lex Aude](https://lexaude.com) - Contract support for in-house legal teams: reviews and redlines drafts to the client's positions with tools its own engineers build, and runs negotiations for a fixed monthly fee. 🇮🇳 India.
+- [PNL Partners](https://pnlp.vn) - Contracts, disputes and IP work in which the firm's own assistant Lexa supports every matter from first read to final draft. Hanoi, 🇻🇳 Vietnam.
+- [Rhett](https://rhett.legal) - Legal work handled end to end by AI for businesses, with every output checked by an advocate. Mumbai, 🇮🇳 India.
+- [Ruby](https://rubylegal.ai) - Shareholder agreements, SAFEs, employment contracts and vendor agreements for growing businesses, drafted by the firm's system and reviewed by a lawyer. Toronto, 🇨🇦 Canada.
+- [Shepherd Legal](https://yourshepherd.ai) - Start-up counsel that combines its own AI software with attorneys. 🇺🇸 United States.
+- [Superlegal](https://superlegal.ai) - Contract review for construction and other industries, with the firm's own technology doing the first review. New York and Lehi, 🇺🇸 United States.
+- [Vector Legal](https://vectorlegal.com) - Start-up counsel in which the firm's own AI takes the first pass. San Francisco, 🇺🇸 United States.
+- [VETTA](https://vettalaw.com) - Day-to-day commercial contracts for a fixed monthly fee, with lawyers and engineers working together on the firm's own technology. London, 🇬🇧 United Kingdom.
+- [Windward Counsel](https://windwardcounsel.com) - Fixed-fee business law for energy and critical minerals, delivered through the firm's own AI system, Windward Helm. Flower Mound, 🇺🇸 United States.
 
 ## Lawyer-led firms built on AI
 
 Practices founded on AI from day one, often fixed fee, running on AI they buy or assemble.
 
-- [Aira Law](https://airalaw.com) - Review, drafting and negotiation of music contracts, plus rights and licensing for labels, publishers and artists. Germany.
-- [Antheros Legal](https://antheros.legal) - Intellectual property work for life sciences companies from a firm that calls itself AI-native. San Francisco, United States.
-- [Artificer Legal](https://artificer.legal) - Practice for software, cyber security, space, clean energy and gig-economy businesses, built around agentic AI pipelines from day one. Sydney, Australia.
-- [Blue Tide](https://www.bluetidelegal.com) - Outside counsel for start-ups, sports betting and iGaming companies and creators, at flat fees. United States.
-- [Blueshoe](https://www.blueshoe.com) - Consumer, employment and injury work in which software does the groundwork and an attorney makes the decisions. Phoenix, United States.
-- [Brahe](https://brahe.law) - Nordic corporate, data, IP and employment work, drafted and researched on Claude, with a lawyer checking every draft. Helsinki, Finland.
-- [General Legal](https://general.legal) - Corporate, venture, M&A and intellectual property work for companies, with technology supporting the attorneys. Union City, United States.
-- [Givance](https://givance.ai) - M&A, venture financings, commercial contracts and O-1 visas for founders and investors at flat fees, with lawyers working with AI. United States.
-- [Irving](https://irving.ai) - Transaction-focused corporate firm that combines senior lawyers with AI to execute complex work. New York, United States.
-- [Legal Counsel Management](https://lglcounsel.ai) - Flat-fee commercial real estate acquisitions, dispositions and finance for borrowers, developers and sponsors. United States.
-- [LegalAgent](https://legalagent.co.jp/en/) - Corporate legal work in which an AI agent does the first pass and attorneys make the judgments. Tokyo, Japan.
-- [Loop Litigation](https://looplitigation.com) - Commercial disputes, trade secret and non-compete cases and e-discovery, with AI agents doing the first pass. Chicago, United States.
-- [Moritz](https://moritzlegal.com) - Commercial and corporate work for companies at a flat fee agreed before it starts. United States.
-- [North End](https://northend.law) - Privacy, data protection and AI governance counsel that works alongside a client's existing firm. San Francisco, United States.
-- [Okechuku Law](https://okechukulaw.com) - Contract review, redlining and drafting, plus privacy and AI governance advice, for technology start-ups on a flat fee. Fulshear, United States.
-- [OneTake](https://onetakelegal.be) - Belgian employment law for employers, with AI doing the preparatory work for a lawyer. Aartselaar, Belgium.
-- [Papa Law Firm](https://papalawfirm.com) - Transactions, debt finance and bankruptcy advice for middle-market companies and financial institutions. Houston, United States.
-- [Pulse Law](https://pulselaw.com) - Business law boutique for start-ups and growth companies that is building a technology-enabled intellectual property practice. Kitchener-Waterloo, Canada.
-- [Showalter](https://showalterpllc.com) - Litigation, appeals and corporate work that uses AI as secretary, librarian, paralegal and associates. United States.
-- [StartupTechLaw](https://startuptechlaw.com) - Start-up, intellectual property and venture funding work from a self-described AI-native firm. Philadelphia, United States.
-- [Talairis Law Group](https://talairis.com) - Revenue, vendor, compliance, corporate and fundraising work for start-ups, using custom AI agents that produce first drafts for its attorneys. United States.
-- [Webster](https://www.webster.legal/en) - Recovery of overdue business invoices of $1,000 to $15,000 for a share of what it collects, with AI drafting and handling the file work. San Juan, Puerto Rico.
+- [Aira Law](https://airalaw.com) - Review, drafting and negotiation of music contracts, plus rights and licensing for labels, publishers and artists. 🇩🇪 Germany.
+- [Antheros Legal](https://antheros.legal) - Intellectual property work for life sciences companies from a firm that calls itself AI-native. San Francisco, 🇺🇸 United States.
+- [Artificer Legal](https://artificer.legal) - Practice for software, cyber security, space, clean energy and gig-economy businesses, built around agentic AI pipelines from day one. Sydney, 🇦🇺 Australia.
+- [Blue Tide](https://www.bluetidelegal.com) - Outside counsel for start-ups, sports betting and iGaming companies and creators, at flat fees. 🇺🇸 United States.
+- [Blueshoe](https://www.blueshoe.com) - Consumer, employment and injury work in which software does the groundwork and an attorney makes the decisions. Phoenix, 🇺🇸 United States.
+- [Brahe](https://brahe.law) - Nordic corporate, data, IP and employment work, drafted and researched on Claude, with a lawyer checking every draft. Helsinki, 🇫🇮 Finland.
+- [General Legal](https://general.legal) - Corporate, venture, M&A and intellectual property work for companies, with technology supporting the attorneys. Union City, 🇺🇸 United States.
+- [Givance](https://givance.ai) - M&A, venture financings, commercial contracts and O-1 visas for founders and investors at flat fees, with lawyers working with AI. 🇺🇸 United States.
+- [Irving](https://irving.ai) - Transaction-focused corporate firm that combines senior lawyers with AI to execute complex work. New York, 🇺🇸 United States.
+- [Legal Counsel Management](https://lglcounsel.ai) - Flat-fee commercial real estate acquisitions, dispositions and finance for borrowers, developers and sponsors. 🇺🇸 United States.
+- [LegalAgent](https://legalagent.co.jp/en/) - Corporate legal work in which an AI agent does the first pass and attorneys make the judgments. Tokyo, 🇯🇵 Japan.
+- [Loop Litigation](https://looplitigation.com) - Commercial disputes, trade secret and non-compete cases and e-discovery, with AI agents doing the first pass. Chicago, 🇺🇸 United States.
+- [Moritz](https://moritzlegal.com) - Commercial and corporate work for companies at a flat fee agreed before it starts. 🇺🇸 United States.
+- [North End](https://northend.law) - Privacy, data protection and AI governance counsel that works alongside a client's existing firm. San Francisco, 🇺🇸 United States.
+- [Okechuku Law](https://okechukulaw.com) - Contract review, redlining and drafting, plus privacy and AI governance advice, for technology start-ups on a flat fee. Fulshear, 🇺🇸 United States.
+- [OneTake](https://onetakelegal.be) - Belgian employment law for employers, with AI doing the preparatory work for a lawyer. Aartselaar, 🇧🇪 Belgium.
+- [Papa Law Firm](https://papalawfirm.com) - Transactions, debt finance and bankruptcy advice for middle-market companies and financial institutions. Houston, 🇺🇸 United States.
+- [Pulse Law](https://pulselaw.com) - Business law boutique for start-ups and growth companies that is building a technology-enabled intellectual property practice. Kitchener-Waterloo, 🇨🇦 Canada.
+- [Showalter](https://showalterpllc.com) - Litigation, appeals and corporate work that uses AI as secretary, librarian, paralegal and associates. 🇺🇸 United States.
+- [StartupTechLaw](https://startuptechlaw.com) - Start-up, intellectual property and venture funding work from a self-described AI-native firm. Philadelphia, 🇺🇸 United States.
+- [Talairis Law Group](https://talairis.com) - Revenue, vendor, compliance, corporate and fundraising work for start-ups, using custom AI agents that produce first drafts for its attorneys. 🇺🇸 United States.
+- [Webster](https://www.webster.legal/en) - Recovery of overdue business invoices of $1,000 to $15,000 for a share of what it collects, with AI drafting and handling the file work. San Juan, 🇵🇷 Puerto Rico.
 
 ## AI-native arms of established firms
 
 Branded units or affiliates of an existing firm or company.
 
-- [ElevateNext](https://elevatenextlaw.com) - Routine disputes, employment and compliance work, integrated with the legal services company Elevate and done with AI tools its team designs. Phoenix, United States.
-- [Eudia Counsel](https://eudiacounsel.com) - Commercial contracts, technology transactions and employment, with first-pass drafting done on the AI platform of its parent company Eudia. United States.
-- [Falcon](https://falcon.law) - Commercial contracting in which AI prepares the first review and a lawyer signs off, on a platform built by the separate company Falcon AI. Brussels, Belgium.
-- [Lina](https://lina.law) - Law practice for founders and funds covering fundraising, M&A and contracts, built on a separate AI platform company whose agents do research, review and first drafts. Belgium.
-- [Manifest](https://manifestlaw.com) - Immigration counsel under the Manifest brand, backed by the Manifest OS shared AI platform. Phoenix, United States.
-- [Norm Law](https://www.normlaw.com) - Law firm launched by the AI company Norm Ai, where AI agents complete first-pass work while attorneys supervise, advise and negotiate. New York, United States.
-- [Parthenon Law](https://www.parthenon.law) - Company formation, financing rounds, immigration and patents for founders, with senior lawyers behind a service powered by Tap&Tell AI. Mountain View, United States.
-- [Scissero](https://www.scissero.com) - Private equity and capital markets work with an AI paralegal, in a group whose sister company Scissero Ltd supplies the technology. London, United Kingdom.
-- [Tao IP](https://taoip.ai) - Patent filing for AI start-ups, where an attorney at Chau IP Law does the legal work and a separate technology company runs the intake and drafting software. New York and San Francisco, United States.
+- [ElevateNext](https://elevatenextlaw.com) - Routine disputes, employment and compliance work, integrated with the legal services company Elevate and done with AI tools its team designs. Phoenix, 🇺🇸 United States.
+- [Eudia Counsel](https://eudiacounsel.com) - Commercial contracts, technology transactions and employment, with first-pass drafting done on the AI platform of its parent company Eudia. 🇺🇸 United States.
+- [Falcon](https://falcon.law) - Commercial contracting in which AI prepares the first review and a lawyer signs off, on a platform built by the separate company Falcon AI. Brussels, 🇧🇪 Belgium.
+- [Lina](https://lina.law) - Law practice for founders and funds covering fundraising, M&A and contracts, built on a separate AI platform company whose agents do research, review and first drafts. 🇧🇪 Belgium.
+- [Manifest](https://manifestlaw.com) - Immigration counsel under the Manifest brand, backed by the Manifest OS shared AI platform. Phoenix, 🇺🇸 United States.
+- [Norm Law](https://www.normlaw.com) - Law firm launched by the AI company Norm Ai, where AI agents complete first-pass work while attorneys supervise, advise and negotiate. New York, 🇺🇸 United States.
+- [Parthenon Law](https://www.parthenon.law) - Company formation, financing rounds, immigration and patents for founders, with senior lawyers behind a service powered by Tap&Tell AI. Mountain View, 🇺🇸 United States.
+- [Scissero](https://www.scissero.com) - Private equity and capital markets work with an AI paralegal, in a group whose sister company Scissero Ltd supplies the technology. London, 🇬🇧 United Kingdom.
+- [Tao IP](https://taoip.ai) - Patent filing for AI start-ups, where an attorney at Chau IP Law does the legal work and a separate technology company runs the intake and drafting software. New York and San Francisco, 🇺🇸 United States.
 
 ## Partner platforms adopting AI
 
 Distributed full-service firms of experienced partners that describe themselves as technology-driven.
 
-- [Pierson Ferdinand](https://piersonferdinand.com) - Distributed firm of partners with no associates that calls itself a "tech-driven, full-service law firm", with offices in the United States and England. United States.
-- [Scale LLP](https://scalefirm.com) - Distributed firm of experienced attorneys covering litigation, transactions, M&A, employment and regulatory work on a tech-enabled platform, with its own AI skills and agentic contract review. United States.
+- [Pierson Ferdinand](https://piersonferdinand.com) - Distributed firm of partners with no associates that calls itself a "tech-driven, full-service law firm", with offices in the United States and England. 🇺🇸 United States.
+- [Scale LLP](https://scalefirm.com) - Distributed firm of experienced attorneys covering litigation, transactions, M&A, employment and regulatory work on a tech-enabled platform, with its own AI skills and agentic contract review. 🇺🇸 United States.
 
 ## By practice area
 
@@ -116,20 +124,20 @@ Each firm is listed under the practice areas its own pages put first.
 
 The country is where the firm says it is based.
 
-| Country        | Firms                                                                                                                                                                                                                                                                                                                                                                                           |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Australia      | Artificer Legal, Bonsai Legal, Lawlux                                                                                                                                                                                                                                                                                                                                                           |
-| Belgium        | Falcon, Lina, OneTake                                                                                                                                                                                                                                                                                                                                                                           |
-| Canada         | Pulse Law, Ruby                                                                                                                                                                                                                                                                                                                                                                                 |
-| Finland        | Brahe                                                                                                                                                                                                                                                                                                                                                                                           |
-| Germany        | Aira Law, Compound Law                                                                                                                                                                                                                                                                                                                                                                          |
-| India          | Clarence & Partners, Lex Aude, Rhett                                                                                                                                                                                                                                                                                                                                                            |
-| Japan          | LegalAgent                                                                                                                                                                                                                                                                                                                                                                                      |
-| Mexico         | Legal Paradox                                                                                                                                                                                                                                                                                                                                                                                   |
-| Puerto Rico    | Webster                                                                                                                                                                                                                                                                                                                                                                                         |
-| United Kingdom | Garfield AI, Index Law, Kyra Law, Scissero, VETTA                                                                                                                                                                                                                                                                                                                                               |
-| United States  | Antheros Legal, Blue Tide, Blueshoe, Crosby, ElevateNext, Eudia Counsel, General Legal, Givance, Inhouse, Irving, Legal Counsel Management, Loop Litigation, Manifest, Moritz, Norm Law, North End, Okechuku Law, Papa Law Firm, Parthenon Law, Pierson Ferdinand, Scale LLP, Shepherd Legal, Showalter, StartupTechLaw, Superlegal, Talairis Law Group, Tao IP, Vector Legal, Windward Counsel |
-| Vietnam        | PNL Partners                                                                                                                                                                                                                                                                                                                                                                                    |
+| Country             | Firms                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🇦🇺 Australia      | Artificer Legal, Bonsai Legal, Lawlux                                                                                                                                                                                                                                                                                                                                                           |
+| 🇧🇪 Belgium        | Falcon, Lina, OneTake                                                                                                                                                                                                                                                                                                                                                                           |
+| 🇨🇦 Canada         | Pulse Law, Ruby                                                                                                                                                                                                                                                                                                                                                                                 |
+| 🇫🇮 Finland        | Brahe                                                                                                                                                                                                                                                                                                                                                                                           |
+| 🇩🇪 Germany        | Aira Law, Compound Law                                                                                                                                                                                                                                                                                                                                                                          |
+| 🇮🇳 India          | Clarence & Partners, Lex Aude, Rhett                                                                                                                                                                                                                                                                                                                                                            |
+| 🇯🇵 Japan          | LegalAgent                                                                                                                                                                                                                                                                                                                                                                                      |
+| 🇲🇽 Mexico         | Legal Paradox                                                                                                                                                                                                                                                                                                                                                                                   |
+| 🇵🇷 Puerto Rico    | Webster                                                                                                                                                                                                                                                                                                                                                                                         |
+| 🇬🇧 United Kingdom | Garfield AI, Index Law, Kyra Law, Scissero, VETTA                                                                                                                                                                                                                                                                                                                                               |
+| 🇺🇸 United States  | Antheros Legal, Blue Tide, Blueshoe, Crosby, ElevateNext, Eudia Counsel, General Legal, Givance, Inhouse, Irving, Legal Counsel Management, Loop Litigation, Manifest, Moritz, Norm Law, North End, Okechuku Law, Papa Law Firm, Parthenon Law, Pierson Ferdinand, Scale LLP, Shepherd Legal, Showalter, StartupTechLaw, Superlegal, Talairis Law Group, Tao IP, Vector Legal, Windward Counsel |
+| 🇻🇳 Vietnam        | PNL Partners                                                                                                                                                                                                                                                                                                                                                                                    |
 
 ## Networks, platforms and communities
 
