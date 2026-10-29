@@ -8,7 +8,7 @@
 
 Sponsored by [Humblepaper](https://humblepaper.co).
 
-> A list of law firms that practise with AI as the method of work rather than an add-on, arranged by how each firm is constituted, with indexes by practice area and country.
+> Law firms that practise with AI as the method of work rather than an add-on, arranged by how each firm is constituted and indexed by practice area and country.
 
 A firm is listed on two facts, both taken from its own pages: that it provides legal services to clients, and that it describes AI as the method by which that work is done rather than as an addition to a conventional practice. Software vendors are not law firms and are not listed.
 
@@ -183,8 +183,8 @@ There is no membership association for these firms yet. These are the platforms,
 
 ## Contributing
 
-One firm per pull request and one line per entry, in alphabetical order within its section. The link goes to the firm's own site. [CONTRIBUTING.md](CONTRIBUTING.md) sets out the rest.
+Pull requests are welcome, one firm at a time. Keep the entry to a single line in alphabetical order, linking to the firm's own site. The rest is in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## About
 
-Humblepaper, Inc. maintains this list from each firm's own published pages. No firm here is a client or a partner of ours, no firm was consulted on its entry, and inclusion is not an endorsement. A firm is listed because its pages meet the definition above. The list is released under CC0 and may be copied freely.
+Maintained by Humblepaper, Inc. from what each firm says about itself. We have no commercial relationship with any firm listed and did not consult them. CC0.
