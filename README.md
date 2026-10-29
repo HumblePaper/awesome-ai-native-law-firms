@@ -12,7 +12,7 @@ Sponsored by [Humblepaper](https://humblepaper.co).
 
 A firm is listed when it provides legal services to clients and its own pages describe AI as the way the work is done. Software vendors are not listed.
 
-Firms are grouped by how they are built, from firms that run on software they wrote to partner platforms adopting AI; the tables at the end index them by practice area and by country.
+Firms are grouped by how they are built, from firms that run on software they wrote to partner platforms adopting AI. The tables at the end index them by practice area and by country.
 
 ## Contents
 
@@ -76,7 +76,7 @@ Practices founded on AI from day one, often fixed fee, running on AI they buy or
 - [Showalter](https://showalterpllc.com) - Litigation, appeals and corporate work that uses AI as secretary, librarian, paralegal and associates. 🇺🇸 United States.
 - [StartupTechLaw](https://startuptechlaw.com) - Start-up, intellectual property and venture funding work from a self-described AI-native firm. Philadelphia, 🇺🇸 United States.
 - [Talairis Law Group](https://talairis.com) - Revenue, vendor, compliance, corporate and fundraising work for start-ups, using custom AI agents that produce first drafts for its attorneys. 🇺🇸 United States.
-- [Webster](https://www.webster.legal/en) - Recovery of overdue business invoices of $1,000 to $15,000 for a share of what it collects, with AI drafting and handling the file work. San Juan, 🇵🇷 Puerto Rico.
+- [Webster](https://www.webster.legal/en) - Recovery of overdue business invoices of US$1,000 to US$15,000 for a share of what it collects, with AI drafting and handling the file work. San Juan, 🇵🇷 Puerto Rico.
 
 ## AI-native arms of established firms
 
@@ -141,7 +141,7 @@ The country is where the firm says it is based.
 
 ## Networks, platforms and communities
 
-No membership association for these firms exists yet; these are the platforms, directories, events and advisers around them.
+No membership association for these firms exists yet. These are the platforms, directories, events and advisers around them.
 
 ### Firm-building platforms
 
@@ -187,4 +187,4 @@ One firm per pull request, one line per entry, alphabetical within its section. 
 
 ## About
 
-Maintained by Humblepaper, Inc. No firm here is a client or a partner of ours; a firm is listed because its own pages meet the definition above. CC0: copy freely.
+Maintained by Humblepaper, Inc. No firm here is a client or a partner of ours. A firm is listed because its own pages meet the definition above. CC0: copy freely.
