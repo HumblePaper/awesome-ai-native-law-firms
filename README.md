@@ -169,6 +169,7 @@ No membership association for these firms exists yet; these are the platforms, d
 
 - [awesome-contract-negotiation](https://github.com/HumblePaper/awesome-contract-negotiation) - Forms, playbooks, data and tools for people who negotiate commercial contracts.
 - [awesome-in-house-legal](https://github.com/inhouseapac/awesome-in-house-legal) - Open-source projects for in-house legal teams.
+- [awesome-legal-ai-benchmarks](https://github.com/HumblePaper/awesome-legal-ai-benchmarks) - Benchmarks, leaderboards, rubrics and evaluation datasets for AI in legal work.
 - [awesome-legal-skills](https://github.com/lawve-ai/awesome-legal-skills) - A curated list of agent skills for automating legal work.
 - [awesome-legaltech](https://github.com/Vaquill-AI/awesome-legaltech) - Legal technology resources across every category.
 
